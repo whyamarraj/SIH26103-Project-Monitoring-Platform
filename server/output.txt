@@ -1,0 +1,6 @@
+◇ injected env (3) from .env
+MongoDB Atlas connection: PASS
+Database: PASS
+Projects read: PASS
+Project write: PASS
+Connection errors: NO
